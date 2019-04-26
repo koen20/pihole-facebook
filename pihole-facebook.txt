@@ -444,6 +444,7 @@
 0.0.0.0 scontent-a.xx.fbcdn.net
 0.0.0.0 scontent-ams.xx.fbcdn.net
 0.0.0.0 scontent-ams3-1.xx.fbcdn.net
+0.0.0.0 scontent-amt2-1.xx.fbcdn.net
 0.0.0.0 scontent-atl.xx.fbcdn.net
 0.0.0.0 scontent-b-ams.xx.fbcdn.net
 0.0.0.0 scontent-b-atl.xx.fbcdn.net
@@ -878,3 +879,5 @@
 0.0.0.0 fb.com
 0.0.0.0 newsroom.fb.com
 0.0.0.0 investor.fb.com
+0.0.0.0 lithium.facebook.com
+0.0.0.0 lookaside.facebook.com
