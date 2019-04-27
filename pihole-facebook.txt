@@ -882,3 +882,4 @@
 0.0.0.0 lithium.facebook.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 external-ams3-1.xx.fbcdn.net
