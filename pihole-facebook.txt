@@ -2,9 +2,12 @@
 # Curated from my own log and some more sources online.
 # Last updated: 3rd October 2017
 
+0.0.0.0 atdmt.com
+0.0.0.0 cx.atdmt.com
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
+0.0.0.0 facebook.net
 0.0.0.0 fbcdn.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fbcdn.net
